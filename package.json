@@ -1,0 +1,22 @@
+{
+  "name": "northwind",
+  "version": "1.0.0",
+  "description": "northwind is a multinational company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khileshkumar/NorthWind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khileshkumar/NorthWind/issues"
+  },
+  "homepage": "https://github.com/khileshkumar/NorthWind#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
